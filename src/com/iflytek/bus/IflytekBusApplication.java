@@ -19,7 +19,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class IflytekBusApplication extends Application {
 
 	private List<BusLine> list;
-	
+	 
 	@Override
 	public void onCreate() {
 		super.onCreate();
