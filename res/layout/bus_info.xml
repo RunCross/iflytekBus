@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/textTitleStyle"
+        android:singleLine="false"
+        android:text="@string/line" />
+
+    <TextView
+        android:id="@+id/line"
+        style="@style/textContStyle"
+        android:singleLine="false" />
+
+    <TextView
+        style="@style/textTitleStyle"
+        android:singleLine="false"
+        android:text="@string/pause" />
+
+    <TextView
+        android:id="@+id/pause"
+        style="@style/textContStyle"
+        android:singleLine="false" />
+
+</LinearLayout>

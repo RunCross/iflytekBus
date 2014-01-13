@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>   
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"   
+        android:label="@string/search_site"   
+        android:hint="@string/search_site"   
+        android:searchSuggestAuthority="com.iflytek.bus"   
+        android:searchSuggestIntentAction="android.intent.action.VIEW"   
+        android:searchSuggestIntentData="content://com.iflytek.bus/bus"   
+        android:searchSuggestSelection=" ?"   
+        android:searchSuggestThreshold="1"    
+        android:includeInGlobalSearch="true">   
+ </searchable>  

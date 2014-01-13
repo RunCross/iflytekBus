@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">讯飞交通车</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="begin">发车时间</string>
+    <string name="line">路线</string> 
+    <string name="pause">停靠车站</string>
+    <string name="search_site">站点搜索</string>
+    <string name="search_cancle">退出搜索</string>
+    <string name="search_go">搜索</string>
+
+</resources>
